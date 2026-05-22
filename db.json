@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali Valiyev",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Vali Karimov",
+      "email": "vali@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Sardor Bek",
+      "email": "sardor@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Jasur Ahmedov",
+      "email": "jasur@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Aziza Nur",
+      "email": "aziza@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Madina Aliyeva",
+      "email": "madina@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Kamron Xasanov",
+      "email": "kamron@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Shahzoda Karimova",
+      "email": "shahzoda@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Temur Rustamov",
+      "email": "temur@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Dilshod Ergashev",
+      "email": "dilshod@gmail.com"
+    }
+  ]
+}
